@@ -1,4 +1,9 @@
-﻿﻿* [https://classroom.udacity.com/nanodegrees/nd002-inpy/parts/88ae24d4-ad85-4e60-b660-59ebeed7f23d](https://classroom.udacity.com/nanodegrees/nd002-inpy/parts/88ae24d4-ad85-4e60-b660-59ebeed7f23d)
+
+#computerphile
+
+
+
+* [https://classroom.udacity.com/nanodegrees/nd002-inpy/parts/88ae24d4-ad85-4e60-b660-59ebeed7f23d](https://classroom.udacity.com/nanodegrees/nd002-inpy/parts/88ae24d4-ad85-4e60-b660-59ebeed7f23d)
 * [https://www.programiz.com/python-programming/if-elif-else](https://www.programiz.com/python-programming/if-elif-else)
 * [https://www.datacamp.com/tracks/data-analyst-with-python?version=1](https://www.datacamp.com/tracks/data-analyst-with-python?version=1)
 * [https://www.appliedaicourse.com/course/applied-ai-course-online/](https://www.appliedaicourse.com/course/applied-ai-course-online/)
