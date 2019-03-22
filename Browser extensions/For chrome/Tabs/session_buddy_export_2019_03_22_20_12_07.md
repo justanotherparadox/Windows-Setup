@@ -1,0 +1,6 @@
+﻿﻿* [https://www.madoko.net/editor.html](https://www.madoko.net/editor.html)
+* [http://madoko.org/reference.html](http://madoko.org/reference.html)
+* [https://dillinger.io/](https://dillinger.io/)
+* [https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
+* [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+* [https://www.youtube.com/results?search_query=writing+markdowns](https://www.youtube.com/results?search_query=writing+markdowns)
