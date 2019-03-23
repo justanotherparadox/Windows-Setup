@@ -8,3 +8,4 @@
    //  Voila ! All the chrome-store links for the extensions are present in a tab
 4. Click and install each one of them .
 
+I will be uploading a backup of my extensions that are situated with my personal chrome env. (EXTENSIONS.html)
