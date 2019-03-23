@@ -9,3 +9,10 @@
 4. Click and install each one of them .
 
 I will be uploading a backup of my extensions that are situated with my personal chrome env. (EXTENSIONS.html)
+
+
+As far as the export is concerned, you can do that using this extension:
+
+https://chrome.google.com/webstore/detail/export-links-of-all-exten/cmeckkgeamghjhkepejgjockldoblhcb?hl=en
+
+
